@@ -1,0 +1,8 @@
+---
+ios_routers:
+    platform: ios
+nexus:
+    platform: nxos
+ios_switches:
+    platform: ios
+    
